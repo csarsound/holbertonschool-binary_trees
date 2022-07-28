@@ -16,6 +16,7 @@ Understand and explain the different procedures to make a binary tree.
 
 ## Example
 
+![Screen Shot 2022-07-28 at 2 17 07 PM](https://user-images.githubusercontent.com/68489879/181621031-7d10cd51-3ed4-4f27-a2f0-36b75ed31b91.png)
 
 ## Authors 
 
